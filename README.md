@@ -15,16 +15,17 @@
 
 ### About Me
 - 👩‍🎓 PhD Candidate in Computer Science
-- 💻 Deep Learning, Medical Image Analysis
+- 🧮 Deep Learning, Medical Image Analysis
 - 🧠 My doctoral research focuses on the development of Deep Learning techniques for the analysis of brain MR images, with the goal of improving the accuracy and efficiency of brain disease diagnosis. Specifically, I aim to develop transferable models that can be implemented in clinical settings and answer important questions in the field, such as:
   - how to create better generalized and robust models,
   - how to address limited data and variance, 
   - and how to increase the interpretability of models.
 - 🚦 I also have experiences in Internet of Things (IoT) and Android development.
+
+###
 - 🚵‍♀️ When I am not researching, I enjoy playing badminton, singing, cycling, and relaxing in nature.
 - 📚 In my free time, I also enjoy delving into psychology books to deepen my understanding of the intricate connection between the mind and behavior, which further enriches my research focus.
-<!-- - 🧑‍🤝‍🧑 I sometimes write technical tutorials and share my experiences in STEM to promote diversity and inclusion -->
-
+#
 ### 📫 You can also find me on:
 - Email: dewinda.207022@mhs.its.ac.id
 - <a href="https://scholar.google.com/citations?user=sjCrkSgAAAAJ&hl=en" target="blank">Google Scholar</a>
