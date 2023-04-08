@@ -39,7 +39,6 @@
 <p align="center">
   <a href="mailto:dewinda.207022@mhs.its.ac.id"><img src="https://img.shields.io/badge/Email-dewinda.207022%40mhs.its.ac.id-blue?style=for-the-badge&logo=mail"></a>
   <a href="https://scholar.google.com/citations?user=sjCrkSgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Dewinda Julianensi Rumala-white?style=for-the-badge&logo=googlescholar"></a>
-  <a href="https://twitter.com/DewindaJR"><img src="https://img.shields.io/badge/Twitter-DewindaJR-white?style=for-the-badge&logo=twitter"></a>
   <a href="https://medium.com/@djrumala"><img src="https://img.shields.io/badge/Medium-djrumala-black?style=for-the-badge&logo=medium"></a>
   <a href="https://www.quora.com/profile/Dewinda-Julianensi-Rumala"><img src="https://img.shields.io/badge/Quora-Dewinda_Julianensi_Rumala-maroon?style=for-the-badge&logo=quora"></a>
 </p>
