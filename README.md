@@ -16,10 +16,7 @@
 ### About Me
 - 👩‍🎓 PhD Candidate in Computer Science
 - 🧮 Deep Learning, Medical Image Analysis
-- 🧠 My doctoral research focuses on the development of Deep Learning techniques for the analysis of brain MR images, with the goal of improving the accuracy and efficiency of brain disease diagnosis. Specifically, I aim to develop transferable models that can be implemented in clinical settings and answer important questions in the field, such as:
-  - how to create better generalized and robust models,
-  - how to address limited data and variance, 
-  - and how to increase the interpretability of models.
+- 🧠 My research is centered around the application of Deep Learning for medical imaging, with the goal of increasing the applicability of medical image diagnosis. My research specifically tries to address pivotal challenges in this field such as managing limited data, mitigating data bias, rectifying class imbalance, enhancing model interpretability, and identifying the most effective medical image data types and preprocessing techniques for these models.
 - 🚦 I also have experiences in Internet of Things (IoT) and Android development.
 
 ###
