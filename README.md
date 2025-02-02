@@ -6,8 +6,16 @@
 ### About Me
 - 👩🏻‍💻 AI Research Engineer
 - 👩‍🎓 PhD in Computer Science
-- 🧮 During my PhD: Deep Learning, Medical Image Analysis, Fairness in AI
-- 🔍 Recently, I’ve been exploring something a bit different—developing and optimizing LLM architectures and techniques📖🤖
+
+### My Interests
+- 🧮 Deep Learning, Medical Image Analysis, Fairness in AI
+- 🔍 Recently, I’ve been exploring something a bit different—developing and optimizing LLM architectures and techniques 📖🤖
+
+### Side Research/Project
+- ⚖️<a href="https://djrumala.github.io/publications/how-you-split-matters" target="blank">How You Split Matters</a>
+  -  🧠 Beyond my PhD research on advancing deep learning techniques for brain MRI analysis, I took the initiative to independently explore fairness in AI within the context of longitudinal data. This interest came from a mistake I made during one of my experiments. I realized the importance of fairness after noticing a lack of attention to it in AI research in my region, where the focus is often on achieving SOTA results instead
+
+  
 
 ### 📫 Find me on:
 - Email: dewinda.207022@mhs.its.ac.id
