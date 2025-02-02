@@ -4,8 +4,10 @@
 <!-- <h3 align="center"> 👩‍🎓 PhD Candidate in Computer Science</h3> -->
 
 ### About Me
-- 👩‍🎓 PhD Candidate in Computer Science
-- 🧮 Deep Learning, Medical Image Analysis, Fairness in AI
+- 👩🏻‍💻 AI Research Engineer
+- 👩‍🎓 PhD in Computer Science
+- 🧮 During my PhD: Deep Learning, Medical Image Analysis, Fairness in AI
+- 🔍 Recently, I’ve been exploring something a bit different—developing and optimizing LLM architectures and techniques📖🤖
 
 ### 📫 Find me on:
 - Email: dewinda.207022@mhs.its.ac.id
