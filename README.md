@@ -3,17 +3,18 @@
 
 <!-- <h3 align="center"> 👩‍🎓 PhD Candidate in Computer Science</h3> -->
 
-### About Me
-- 👩🏻‍💻 AI Research Engineer
-- 👩‍🎓 PhD in Computer Science
+### 💡 About Me
+I hold a PhD in Computer Science from Sepuluh Nopember Institute of Technology👩‍🎓 where I specialized in deep learning and medical image analysis. Currently, I work as an AI Research Engineer, focusing on developing and optimizing LLM architectures and techniques👩🏻‍💻
 
-### My Interests
-- 🧮 Deep Learning, Medical Image Analysis, Fairness in AI
-- 🔍 Recently, I’ve been exploring something a bit different—developing and optimizing LLM architectures and techniques 📖🤖
+### ✨ My Interests
+- 🧮 Deep Learning
+- 🧠 Medical Image Analysis
+- ⚖️ Fairness in AI
+- 🔍 Recently, I’ve been exploring something a bit different—LLMs 📖🤖
 
-### Side Research/Project
-- ⚖️<a href="https://djrumala.github.io/publications/how-you-split-matters" target="blank">How You Split Matters</a>
-  -  🧠 Beyond my PhD research on advancing deep learning techniques for brain MRI analysis, I took the initiative to independently explore fairness in AI within the context of longitudinal data. This interest came from a mistake I made during one of my experiments. I realized the importance of fairness after noticing a lack of attention to it in AI research in my region, where the focus is often on achieving SOTA results instead
+### 🕵️‍♀️ Side Research/Project
+- ✂️<a href="https://djrumala.github.io/publications/how-you-split-matters" target="blank">How You Split Matters</a>
+  - 🔮Beyond my PhD research on advancing deep learning techniques for brain MRI analysis, I took the initiative to independently explore fairness in AI within the context of longitudinal data. This interest came from a mistake I made during one of my experiments. I realized the importance of fairness after noticing a lack of attention to it in AI research in my region, where the focus is often on achieving SOTA results instead
 
   
 
