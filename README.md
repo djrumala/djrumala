@@ -14,6 +14,7 @@
 - <a href="https://scholar.google.com/citations?user=sjCrkSgAAAAJ&hl=en" target="blank">Google Scholar</a>
 - I sometimes write technical tutorials and share my experiences in STEM to promote diversity and inclusion
   - My Website: <a href="https://djrumala.github.io" target="blank">djrumala.github.io</a> (English)
+  - Medium: <a href="https://medium.com/@djrumala" target="blank">Dewinda</a> (English)
 
 
 <!--
