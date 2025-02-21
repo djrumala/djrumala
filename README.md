@@ -10,12 +10,15 @@ I hold a PhD in Computer Science from Sepuluh Nopember Institute of Technology�
 - 🧮 Deep Learning
 - 🧠 Medical Image Analysis
 - ⚖️ Fairness in AI
-- 🔍 Recently, I’ve been exploring something a bit different—LLMs 📖🤖
+- 🌏 Open Science & Reproducibility
+- 🔍 Recently, I’ve been exploring LLMs 📖🤖
+
 
 ### 🕵️‍♀️ Side Research/Project
-- ✂️<a href="https://djrumala.github.io/publications/how-you-split-matters" target="blank">How You Split Matters</a>
-  - 🔮Beyond my PhD research on advancing deep learning techniques for brain MRI analysis, I took the initiative to independently explore fairness in AI within the context of longitudinal data. This interest came from a mistake I made during one of my experiments. I realized the importance of fairness after noticing a lack of attention to it in AI research in my region, where the focus is often on achieving SOTA results instead
-
+- 🔮 <a href="https://djrumala.github.io/publications/how-you-split-matters" target="blank">How You Split Matters</a> [Fairness in AI]
+  - Beyond my PhD research on advancing deep learning techniques for brain MRI analysis, I took the initiative to independently explore the study of data leakage and splitting strategies within the context of longitudinal data. This interest came from a mistake I made during one of my PhD experiments. I realized the importance of fairness and avoiding such biases after noticing a lack of attention to them in AI research in my region, where the focus is often on achieving SOTA results instead.
+- 🛠️ <a href="https://github.com/djrumala/ADNI-processing" target="blank">ADNI-processing</a> [Open Science & Reproducibility]
+  - A structured, reproducible pipeline for preprocessing ADNI MRI data, including DICOM-to-NIfTI conversion, subject organization, and batch processing with SPM. Designed for scalability and ease of use in neuroimaging research.
   
 
 ### 📫 Find me on:
