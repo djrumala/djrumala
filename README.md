@@ -4,7 +4,7 @@
 <!-- <h3 align="center"> 👩‍🎓 PhD Candidate in Computer Science</h3> -->
 
 ### 💡 About Me
-I hold a PhD in Computer Science from Sepuluh Nopember Institute of Technology👩‍🎓 where I specialized in deep learning and medical image analysis. Currently, I work as an AI Research Engineer, focusing on developing and optimizing LLM architectures and techniques👩🏻‍💻
+During my PhD, I focused on deep learning applications in healthcare, particularly medical image analysis. Currently, I work remotely as an AI Researcher, developing cutting-edge methods and frameworks to enhance LLMs in reasoning, adaptability, and efficiency  👩🏻‍💻
 
 ### ✨ My Interests
 - 🧮 Deep Learning
