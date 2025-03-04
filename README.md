@@ -4,7 +4,7 @@
 <!-- <h3 align="center"> 👩‍🎓 PhD Candidate in Computer Science</h3> -->
 
 ### 💡 About Me
-During my PhD, I focused on deep learning applications in healthcare, particularly medical image analysis. Currently, I work remotely as an AI Researcher, developing cutting-edge methods and frameworks to enhance LLMs in reasoning, adaptability, and efficiency  👩🏻‍💻
+I work remotely as an AI researcher at a global AI startup, focusing on developing cutting-edge methods and frameworks to enhance LLMs in reasoning, adaptability, and efficiency. During my PhD, I specialized in deep learning applications in healthcare, particularly medical image analysis. I have contributed to AI research through publications and by serving as a reviewer for venues such as MICCAI, MIDL, and MIUA
 
 ### ✨ My Interests
 - 🧮 Deep Learning
@@ -23,7 +23,7 @@ During my PhD, I focused on deep learning applications in healthcare, particular
 
 ### 📫 Find me on:
 - Email: dewinda.207022@mhs.its.ac.id
-- <a href="https://scholar.google.com/citations?user=sjCrkSgAAAAJ&hl=en" target="blank">Google Scholar</a>
+- Check my publications here: <a href="https://scholar.google.com/citations?user=sjCrkSgAAAAJ&hl=en" target="blank">Google Scholar</a>
 - I sometimes write technical tutorials and share my experiences in STEM to promote diversity and inclusion
   - My Website: <a href="https://djrumala.github.io" target="blank">djrumala.github.io</a> (English)
   - Medium: <a href="https://medium.com/@djrumala" target="blank">Dewinda</a> (English and Bahasa Indonesia)
