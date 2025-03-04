@@ -4,7 +4,7 @@
 <!-- <h3 align="center"> 👩‍🎓 PhD Candidate in Computer Science</h3> -->
 
 ### 💡 About Me
-I work remotely as an AI researcher at a global AI startup, focusing on developing cutting-edge methods and frameworks to enhance LLMs in reasoning, adaptability, and efficiency. During my PhD, I specialized in deep learning applications in healthcare, particularly medical image analysis. I have contributed to AI research through publications and by serving as a reviewer for venues such as MICCAI, MIDL, and MIUA
+I work remotely as an AI researcher at a global AI startup, focusing on developing cutting-edge methods and frameworks to enhance LLMs in reasoning, adaptability, and efficiency. During my PhD, my research centered around deep learning applications in healthcare, particularly medical image analysis. I have contributed to AI research through publications and by serving as a reviewer for venues such as MICCAI, MIDL, and MIUA.
 
 ### ✨ My Interests
 - 🧮 Deep Learning
