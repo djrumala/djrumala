@@ -22,6 +22,7 @@ I work remotely as an AI researcher at a global AI startup, focusing on developi
   
 
 ### 📫 Find me on:
+I am open to collaboration, discussion, or just answering your questions if you have any!
 - Email: dewinda.207022@mhs.its.ac.id
 - Check my publications here: <a href="https://scholar.google.com/citations?user=sjCrkSgAAAAJ&hl=en" target="blank">Google Scholar</a>
 - I sometimes write technical tutorials and share my experiences in STEM to promote diversity and inclusion
