@@ -4,7 +4,7 @@
 <!-- <h3 align="center"> 👩‍🎓 PhD Candidate in Computer Science</h3> -->
 
 ### 💡 About Me
-I work remotely as an AI researcher at a global AI startup, focusing on developing cutting-edge methods and frameworks to enhance LLMs in reasoning, adaptability, and efficiency. During my PhD, my research centered around deep learning applications in healthcare, particularly medical image analysis. I have contributed to AI research through publications and by serving as a reviewer for venues such as MICCAI, MIDL, and MIUA.
+I work remotely as an AI research engineer at a European-based AI startup, focusing on developing cutting-edge methods and frameworks to enhance LLMs in reasoning, adaptability, and efficiency. During my PhD, my research centered around deep learning applications in healthcare, particularly medical image analysis. I have contributed to AI research through publications and by serving as a reviewer for venues such as MICCAI, MIDL, and MIUA.
 
 ### ✨ My Interests
 - 🧮 Deep Learning
@@ -16,7 +16,7 @@ I work remotely as an AI researcher at a global AI startup, focusing on developi
 
 ### 🕵️‍♀️ Side Research/Project
 - 🔮 <a href="https://djrumala.github.io/publications/how-you-split-matters" target="blank">How You Split Matters</a> [Fairness in AI]
-  - Beyond my PhD research on advancing deep learning techniques for brain MRI analysis, I took the initiative to independently explore the study of data leakage and splitting strategies within the context of longitudinal data. This interest came from a mistake I made during one of my PhD experiments. I realized the importance of fairness and avoiding such biases after noticing a lack of attention to them in AI research in my region, where the focus is often on achieving SOTA results instead.
+  - Beyond my PhD research on advancing deep learning techniques for brain MRI analysis, I took the initiative to independently explore the study of data leakage and splitting strategies within the context of longitudinal data. I realized the importance of fairness and avoiding such biases after noticing a lack of attention to them in my region.
 - 🛠️ <a href="https://github.com/djrumala/ADNI-processing" target="blank">ADNI-processing</a> [Open Science & Reproducibility]
   - A structured, reproducible pipeline for preprocessing ADNI MRI data, including DICOM-to-NIfTI conversion, subject organization, and batch processing with SPM. Designed for scalability and ease of use in neuroimaging research.
   
