@@ -1,10 +1,10 @@
 
 <h1 align="left">Hey there 👋, I'm Dewinda J. Rumala</a></h1>
 
-<!-- <h3 align="center"> 👩‍🎓 PhD Candidate in Computer Science</h3> -->
+<h3 align="center"> PhD in Computer Science | Leading AI Research and Development </h3>
 
 ### 💡 About Me
-I work remotely as an AI research engineer at a European-based AI startup, focusing on developing cutting-edge methods and frameworks to enhance LLMs in reasoning, adaptability, and efficiency. During my PhD, my research centered around deep learning applications in healthcare, particularly medical image analysis. I have contributed to AI research through publications and by serving as a reviewer for venues such as MICCAI, MIDL, and MIUA.
+I work remotely as an AI researcher at a European-based AI startup. Our main focus is on developing cutting-edge methods and frameworks to enhance LLMs in reasoning, adaptability, and efficiency. During my PhD, my research centered around deep learning applications in healthcare, particularly medical image analysis. I have contributed to AI research through publications and by serving as a reviewer for venues such as MICCAI, MIDL, and MIUA.
 
 ### ✨ My Interests
 - 🧮 Deep Learning
@@ -23,7 +23,7 @@ I work remotely as an AI research engineer at a European-based AI startup, focus
 
 ### 📫 Find me on:
 I am open to collaboration, discussion, or just answering your questions if you have any!
-- Email: dewinda.207022@mhs.its.ac.id
+- Email: djrumala[at]gmail[dot]com
 - Check my publications here: <a href="https://scholar.google.com/citations?user=sjCrkSgAAAAJ&hl=en" target="blank">Google Scholar</a>
 - I sometimes write technical tutorials and share my experiences in STEM to promote diversity and inclusion
   - My Website: <a href="https://djrumala.github.io" target="blank">djrumala.github.io</a> (English)
