@@ -1,5 +1,5 @@
 
-<h1 align="left">Hey there 👋, I'm Dewinda J. Rumala</a></h1>
+<h1 align="left">Hey there 👋, I'm Dewinda</a></h1>
 
 <h3 align="center"> PhD in Computer Science | Leading AI Research and Development </h3>
 
