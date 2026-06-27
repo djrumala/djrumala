@@ -4,7 +4,7 @@
 <h3 align="center"> PhD in Computer Science | Leading AI Research and Development </h3>
 
 ### 💡 About Me
-I work remotely as an AI researcher at a European-based AI startup. Our main focus is on developing cutting-edge methods and frameworks to enhance LLMs in reasoning, adaptability, and efficiency. During my PhD, my research centered around deep learning applications in healthcare, particularly medical image analysis. I have contributed to AI research through publications and by serving as a reviewer for venues such as MICCAI, MIDL, and MIUA.
+I am a machine learning scientist and product builder passionate about translating AI research into practical solutions that create real-world impact. My PhD research focused on deep learning for healthcare, particularly medical image analysis. Currently, I serve as Head of AI, leading AI initiatives across strategy, product, and implementation. While my work is primarily industry-focused, I remain active in the research community as a reviewer for venues including MELBA, MICCAI, MIDL, and MIUA.
 
 ### ✨ My Interests
 - 🧮 Deep Learning
