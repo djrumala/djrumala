@@ -4,8 +4,7 @@
 <h3 align="center"> AI Engineering Leader • Researcher • PhD in Computer Science </h3>
 
 ### 💡 About Me
-
-I am passionate about building AI systems that solve real-world problems and create meaningful impact for people and organizations. My tech journey began in software engineering, where I built mobile, IoT, and full-stack applications before pursuing a PhD focused on deep learning for healthcare and medical image analysis. Today, as Head of AI, I lead engineering teams across AI strategy, architecture, and implementation, bridging business objectives with scalable technical solutions. I remain connected to the research community as a reviewer for venues including MELBA, MICCAI, MIDL, and MIUA.
+I am a Machine Learning Engineer and AI Leader with a cross disciplinary background spanning software and hardware systems, enterprise AI, and medical informatics. I am passionate about building AI and software systems that solve real-world problems and create meaningful impact for people and organizations. I thrive in taking complete ownership of messy, ambiguous challenges and transform complex ideas into practical, scalable solutions. Currently, My tech journey began in software engineering, where I built mobile, IoT, and full-stack applications before pursuing a PhD focused on deep learning for healthcare and medical image analysis. While I am in the industry now, I remain connected to the research community as a reviewer for venues including MELBA, MICCAI, MIDL, and MIUA.
 
 ### ✨ My Interests
 - 🧮 Deep Learning
@@ -21,15 +20,6 @@ I am passionate about building AI systems that solve real-world problems and cre
 - 🛠️ <a href="https://github.com/djrumala/ADNI-processing" target="blank">ADNI-processing</a> [Open Science & Reproducibility]
   - A structured, reproducible pipeline for preprocessing ADNI MRI data, including DICOM-to-NIfTI conversion, subject organization, and batch processing with SPM. Designed for scalability and ease of use in neuroimaging research.
   
-
-### 📫 Find me on:
-I am open to collaboration, discussion, or just answering your questions if you have any! Contact me if you need guidance in navigating your academic journey and career in tech! I am open for a mentorship.
-- Email: djrumala[at]gmail[dot]com
-- Check my publications here: <a href="https://scholar.google.com/citations?user=sjCrkSgAAAAJ&hl=en" target="blank">Google Scholar</a>
-- I sometimes write technical tutorials and share my experiences in STEM to promote diversity and inclusion
-  - My Website: <a href="https://djrumala.github.io" target="blank">djrumala.github.io</a> (English)
-  - Medium: <a href="https://medium.com/@djrumala" target="blank">Dewinda</a> (English and Bahasa Indonesia)
-
 
 ### 📫 Find me on:
 I'm always happy to collaborate, discuss ideas, or answer questions about AI, research, and software engineering.
