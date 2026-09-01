@@ -1,10 +1,12 @@
 
 <h1 align="left">Hey there 👋, I'm Dewinda</a></h1>
 
-<h3 align="center"> AI Engineering Leader • Researcher • PhD in Computer Science </h3>
+<h3 align="center"> AI/ML Engineer, Leader, Builder, Researcher • PhD in Computer Science </h3>
 
 ### 💡 About Me
-I am a Machine Learning Engineer and AI Leader with a cross disciplinary background spanning software and hardware systems, enterprise AI, and medical informatics. I am passionate about building AI and software systems that solve real-world problems and create meaningful impact for people and organizations. I thrive in taking complete ownership of messy, ambiguous challenges and transform complex ideas into practical, scalable solutions. Currently, My tech journey began in software engineering, where I built mobile, IoT, and full-stack applications before pursuing a PhD focused on deep learning for healthcare and medical image analysis. While I am in the industry now, I remain connected to the research community as a reviewer for venues including MELBA, MICCAI, MIDL, and MIUA.
+An AI/ML engineer, builder, and leader with a cross disciplinary background spanning healthcare, enterprise, and customer apps. I am passionate about building AI and software systems that solve real-world problems and create meaningful impact for people and organizations. I thrive in taking complete ownership of messy, ambiguous challenges and transform complex ideas into practical, scalable solutions. 
+
+My tech journey began in software engineering, where I built mobile, IoT, and full-stack applications before pursuing a PhD focused on deep learning for healthcare and medical image analysis.
 
 ### ✨ My Interests
 - 🧮 Deep Learning
@@ -19,7 +21,13 @@ I am a Machine Learning Engineer and AI Leader with a cross disciplinary backgro
   - Beyond my PhD research on advancing deep learning techniques for brain MRI analysis, I took the initiative to independently explore the study of data leakage and splitting strategies within the context of longitudinal data. I realized the importance of fairness and avoiding such biases after noticing a lack of attention to them in my region.
 - 🛠️ <a href="https://github.com/djrumala/ADNI-processing" target="blank">ADNI-processing</a> [Open Science & Reproducibility]
   - A structured, reproducible pipeline for preprocessing ADNI MRI data, including DICOM-to-NIfTI conversion, subject organization, and batch processing with SPM. Designed for scalability and ease of use in neuroimaging research.
-  
+
+### Professional Activities
+- Reviewer:
+  - MELBA, MICCAI, MIDL, MIUA and JIIM/SIIM.
+- Community / Board activities:
+  - RISE MICCAI: Board Member (Story-telling Coordinator)
+  - MICCAI FAIMI workshop: YouTube Channel Coordinator
 
 ### 📫 Find me on:
 I'm always happy to collaborate, discuss ideas, or answer questions about AI, research, and software engineering.
@@ -29,9 +37,6 @@ I'm always happy to collaborate, discuss ideas, or answer questions about AI, re
 - ✍️ I occasionally write technical tutorials and share my experiences in STEM to promote diversity and inclusion:
   - My Website: <a href="https://djrumala.github.io" target="blank">djrumala.github.io</a> (English)
   - Medium: <a href="https://medium.com/@djrumala" target="blank">Dewinda</a> (English & Bahasa Indonesia)
-
-### 🎓 Academic & Career Compass
-If you're looking for guidance on graduate school, research, or a career in tech, visit <a href="https://yudewi.co" target="blank">yudewi.co</a>. I'm also happy to connect and offer mentorship to students and early-career professionals navigating their academic or professional journeys.
 
 <!--
 **djrumala/djrumala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
